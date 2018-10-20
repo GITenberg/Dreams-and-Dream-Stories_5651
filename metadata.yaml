@@ -1,5 +1,5 @@
 _repo: Dreams-and-Dream-Stories_5651
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'BF'
 - !lcc 'PR'
 - !lcsh 'Dreams'
+- GITenberg
 title: Dreams and Dream Stories
 url: http://www.gutenberg.org/ebooks/5651
